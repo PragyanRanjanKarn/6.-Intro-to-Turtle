@@ -1,7 +1,7 @@
 import turtle
 s = turtle.Screen()
 s.setup(300,300)
-s.bgcolor("black")
+s.bgcolor("white")
 turtle.title("Welcome to Turtle Window")
 t = turtle.Turtle()
 
@@ -82,3 +82,5 @@ for i in range(5): # 5 times
 
 
         
+turtle.done()
+
